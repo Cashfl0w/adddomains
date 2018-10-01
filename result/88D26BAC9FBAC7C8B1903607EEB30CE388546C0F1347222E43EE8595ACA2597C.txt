@@ -7,9 +7,9 @@
 x2.vindicosuite.com
 occ-0-399-783.1.nflxso.net
 cert-test.sandbox.google.com
-vcs.vdspf.com
-mhc-ajax-us.myhomescreen.tv
-mhc-ajax-eu.myhomescreen.tv
+#vcs.vdspf.com // if blocked, notified of new firmware but unable to download/install
+#mhc-ajax-us.myhomescreen.tv // if blocked, unable to use smarttv apps e.g. Netflix, AmazonVideo as TV calls home for connection check
+#mhc-ajax-eu.myhomescreen.tv // if blocked, unable to use smarttv apps e.g. Netflix, AmazonVideo as TV calls home for connection check
 mhc-sec-us.myhomescreen.tv
 mhc-sec-eu.myhomescreen.tv
 mhc-xpana-us.myhomescreen.tv
